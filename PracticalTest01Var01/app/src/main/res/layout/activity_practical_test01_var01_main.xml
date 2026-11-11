@@ -29,6 +29,7 @@
             android:enabled="false"
             android:gravity="center_horizontal"
             android:inputType="text"
+            android:saveEnabled="false"
             android:text="0" />
 
         <EditText
@@ -40,6 +41,7 @@
             android:enabled="false"
             android:gravity="center_horizontal"
             android:inputType="text"
+            android:saveEnabled="false"
             android:text="0" />
     </LinearLayout>
 
